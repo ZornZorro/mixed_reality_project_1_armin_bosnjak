@@ -1,4 +1,4 @@
-1.1 Allgemeine Projektinformationen
+## 1.1 Allgemeine Projektinformationen
 
 Projektname: The Shooting Range
 
@@ -14,7 +14,7 @@ Man schießt auf das rote Board, um das Level zu beginnen. Nach dem Start fliege
 Um das Level zu beenden, schießt man erneut auf das rote Board.
 
 
-1.2 Externe Ressourcen
+## 1.2 Externe Ressourcen
 
 3D-Modelle und Texturen:
 - Sci-Fi Handgun:
@@ -37,7 +37,7 @@ Custom Sachen:
 - Wände abhängig vom gescanntem Raum
 
 
-1.3 Technische Details und Installation
+## 1.3 Technische Details und Installation
 
 Unity-Version: 6000.3.26f1 (Unity 6.3)
 
@@ -61,7 +61,7 @@ Installationsanleitung:
 3. Build and run
 
 
-1.4. Eigenleistung und Reflexion
+## 1.4. Eigenleistung und Reflexion
 
 Den größten Zeitaufwand hatte bei mir das Setup. Danach habe ich die Grundlagen des Projekts selbst gebaut. Die Szene laden, das Waffenmodell importieren und eine Hitbox mit Interaktion hinzufügen. Außerdem habe ich dafür gesorgt, dass das Board an der Wand des gescannten Raums platziert wird und den Passthrough eingerichtet. Auch einfache Features habe ich zuerst selbst probiert, zum Beispiel eine einzelne Kugel, die zufällig durch den Raum fliegt.
 
