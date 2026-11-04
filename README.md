@@ -18,10 +18,10 @@ Um das Level zu beenden, schießt man erneut auf das rote Board.
 
 3D-Modelle und Texturen:
 - Sci-Fi Handgun:
-  Autor: Dimitri.Rey.3D
-  Quelle: https://sketchfab.com/3d-models/sci-fi-handgun-e36a1c4cf8584fad9d24aab63c641ccd
-  Lizenz: CC-BY-4.0
-  Veränderungen: Waffe auf 0,1 skaliert und um 90 Grad gedreht; Hitbox hinzugefügt
+  - Autor: Dimitri.Rey.3D
+  - Quelle: https://sketchfab.com/3d-models/sci-fi-handgun-e36a1c4cf8584fad9d24aab63c641ccd
+  - Lizenz: CC-BY-4.0
+  - Veränderungen: Waffe auf 0,1 skaliert und um 90 Grad gedreht; Hitbox hinzugefügt
   
 Plugins und Bibliotheken:
 - Meta XR SDK 207.0.1: Core SDK (OVRCameraRig, Controller-Eingabe), Interaction SDK und MR Utility Kit (liest den echten Raum und die Waende ein)
