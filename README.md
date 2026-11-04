@@ -17,7 +17,7 @@ Um das Level zu beenden, schießt man erneut auf das rote Board.
 1.2 Externe Ressourcen
 
 3D-Modelle und Texturen:
-- Sci-Fi Handgun
+- Sci-Fi Handgun:
   Autor: Dimitri.Rey.3D
   Quelle: https://sketchfab.com/3d-models/sci-fi-handgun-e36a1c4cf8584fad9d24aab63c641ccd
   Lizenz: CC-BY-4.0
@@ -60,4 +60,15 @@ Installationsanleitung:
 2. Die Szene in Assets/Scenes/abgabe_1.unity öffnen
 3. Build and run
 
+
+1.4. Eigenleistung und Reflexion
+
+Den größten Zeitaufwand hatte bei mir das Setup. Danach habe ich die Grundlagen des Projekts selbst gebaut. Die Szene laden, das Waffenmodell importieren und eine Hitbox mit Interaktion hinzufügen. Außerdem habe ich dafür gesorgt, dass das Board an der Wand des gescannten Raums platziert wird und den Passthrough eingerichtet. Auch einfache Features habe ich zuerst selbst probiert, zum Beispiel eine einzelne Kugel, die zufällig durch den Raum fliegt.
+
+Die KI hat mir dann geholfen, das bereits vorhandene deutlich besser umzusetzen und neue Features einzubauen. Dazu gehören das Abprallen der Kugeln an den Wänden und das Abschießen der fliegenden Kugeln mit der Waffe. Auch bei den Formulierungen und Fachbegriffen in 1.2 und 1.3 hat mir die KI geholfen.
+
+Reflexion:
+Die größten Probleme hatte ich beim Setup der VR-Brille. Zu Hause habe ich lange versucht, sie einzurichten, aber sie wurde beim Build nicht gefunden. Grund war der Developer Modus, der deaktiviert war. Somit konnte ich für eine lange Zeit meine vorhanden Szene nicht testen, da selbst bis jetzt das Setup vom Meta-XR-Simulator nicht funktioniert. Auch bei den ersten Schritten kam es oft zu Problemen. Ich hatte zuerst nicht verstanden, warum nach dem Build nicht gleich die neue Szene zu sehen war. Teilweise wurde nur die alte Szene angezeigt, manchmal kam die Meldung, dass das Projekt nicht initialisiert wurde.
+
+Da ich vorher keine Erfahrung mit C-Sharp hatte, war die KI bei der Programmierung eine große Hilfe. Damit konnte ich alles umsetzen, was ich mir vorgenommen hatte.
 
